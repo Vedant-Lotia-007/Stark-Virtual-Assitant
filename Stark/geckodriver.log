@@ -1,0 +1,114 @@
+1616224302915	geckodriver	INFO	Listening on 127.0.0.1:63466
+1616224305978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofile0B7qbM"
+1616224515357	geckodriver	INFO	Listening on 127.0.0.1:63555
+1616224518433	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofileNE9LYb"
+1616224518706	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1616224518785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1616224518785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1616224518785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1616224518785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616224520096	Marionette	INFO	Listening on port 63564
+1616224520486	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+1616224859051	Marionette	INFO	Stopped listening on port 63564
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+p\\rust_mozprofileIROuP0"
+1616224589738	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1616224589820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1616224589820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1616224589820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1616224589820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616224591116	Marionette	INFO	Listening on port 63621
+1616224591519	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x580011,name=PHttpChannel::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616224605830	Marionette	INFO	Stopped listening on port 63621
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1616224698614	geckodriver	INFO	Listening on 127.0.0.1:63686
+1616224701702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilemkfjzx"
+1616224701972	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1616224702052	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1616224702052	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1616224702052	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1616224702052	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616224703253	Marionette	INFO	Listening on port 63695
+1616224703738	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+1616224801361	Marionette	INFO	Stopped listening on port 63695
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1616226233610	geckodriver	INFO	Listening on 127.0.0.1:64188
+1616226236678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilee5Q90F"
+1616226236979	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1616226237058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1616226237058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1616226237058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1616226237058	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616226238287	Marionette	INFO	Listening on port 64197
+1616226238714	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+1616226322490	Marionette	INFO	Stopped listening on port 64197
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1619851575471	geckodriver	INFO	Listening on 127.0.0.1:51066
+1619851578501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\HP\\AppData\\Local\\Temp\\rust_mozprofilevJASGx"
+1619851579281	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1619851579539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1619851579539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1619851579539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1619851579539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1619851581777	Marionette	INFO	Listening on port 51075
+1619851582160	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.df9188bb4cd23ee53e79.js, line 1: unreachable code after return statement
+1619851691304	Marionette	INFO	Stopped listening on port 51075
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
