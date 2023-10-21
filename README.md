@@ -37,10 +37,17 @@ git clone https://github.com/your-username/Stark-virtual-assistant.git
 cd Stark-virtual-assistant
 ```
 - Install the required Python packages:
-  ```bash pip install pyttsx3 speech_recognition wikipedia webbrowser googlesearch-python getpass4 selenium mysql-connector-python smtplib nltk ```
+
+  ```bash
+  pip install pyttsx3 speech_recognition wikipedia webbrowser googlesearch-python getpass4 selenium mysql-connector-python smtplib nltk
+  ```
+  
 - Make sure you have Firefox installed, as the selenium package in this project is configured to use Firefox.
 - Start interacting with Stark by running:
-  ```bash python Strak.py ```
+
+  ```bash
+  python Stark Virtual Assistant.py
+  ```
 
 ## Usage
 1. Run the script, and Stark will greet you according to the time of day and ask how it can assist you.
